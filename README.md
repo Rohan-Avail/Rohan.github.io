@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rohan Shaw
+👋 Hi, I'm Rohan Shaw
 
 ## About Me
 
