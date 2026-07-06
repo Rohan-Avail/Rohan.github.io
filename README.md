@@ -1,15 +1,33 @@
-👋 Hi, I'm Rohan Shaw
+# 👋 Hi, I'm Rohan Shaw
 
-## About Me
+## 💼 Professional Summary
 
-I am a motivated and detail-oriented individual with strong organizational and problem-solving abilities. I enjoy learning new skills, adapting to new environments, and delivering accurate, high-quality work. I am currently looking for an opportunity to begin my professional career and grow within a dynamic organization.
+Motivated and detail-oriented individual with strong organizational and problem-solving abilities. Quick to learn new skills, adaptable to different work environments, and committed to delivering accurate and high-quality results. Seeking an opportunity to contribute, grow professionally, and add value to an organization.
 
 ---
 
 ## 🎓 Education
 
-- Higher Secondary (12th Pass)
-- West Bengal Board
+**Higher Secondary (12th Pass)**  
+West Bengal Board
+
+---
+
+## 🏆 Certifications
+
+**Advanced Microsoft Excel (Top 25%) – TestDome**
+
+🔗 https://www.testdome.com/certificates/44c68d86d60a4a78ac253ccbe483ddb1
+
+
+
+---
+
+## 🌐 Languages
+
+- English
+- Hindi
+- Bengali
 
 ---
 
@@ -17,24 +35,9 @@ I am a motivated and detail-oriented individual with strong organizational and p
 
 **Fresher**
 
-Ready to start my professional journey with enthusiasm, dedication, and a willingness to learn. I am a quick learner with a positive attitude and strong work ethic.
+Eager to begin my professional career with enthusiasm, dedication, and a willingness to learn.
 
 ---
-CERTIFICATE
-<a href="https://www.testdome.com/certificates/44c68d86d60a4a78ac253ccbe483ddb1" class="testdome-certificate-stamp silver">
-            <span class="testdome-certificate-name">Rohan Shaw</span>
-            <span class="testdome-certificate-test-name">MS Excel</span>
-            <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
-        </a>
-        <script>
-            var stylesheet = "https://www.testdome.com/content/certificates/embed.css";
-            link = document.createElement("link");
-            link.href = stylesheet;
-            link.type = "text/css";
-            link.rel = "stylesheet";
-            link.media = "screen,print";
-            document.getElementsByTagName("head")[0].appendChild(link);
-        </script>
 
 ## 🛠️ Technical Skills
 
@@ -54,24 +57,7 @@ CERTIFICATE
 - Communication Skills
 - Time Management
 - Teamwork
-- Problem Solving
 - Quick Learner
+- Problem Solving
 
 ---
-
-## 🌐 Languages
-
-- English
-- Hindi
-- Bengali
-
----
-
-## 📫 Contact
-
-- 📍 Rishra, Kolkata, India
-- 📧 rohanshaw029@gmail.com
-
----
-
-⭐ Thank you for visiting my profile!
