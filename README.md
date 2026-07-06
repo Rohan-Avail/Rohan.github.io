@@ -20,6 +20,21 @@ I am a motivated and detail-oriented individual with strong organizational and p
 Ready to start my professional journey with enthusiasm, dedication, and a willingness to learn. I am a quick learner with a positive attitude and strong work ethic.
 
 ---
+CERTIFICATE
+<a href="https://www.testdome.com/certificates/44c68d86d60a4a78ac253ccbe483ddb1" class="testdome-certificate-stamp silver">
+            <span class="testdome-certificate-name">Rohan Shaw</span>
+            <span class="testdome-certificate-test-name">MS Excel</span>
+            <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
+        </a>
+        <script>
+            var stylesheet = "https://www.testdome.com/content/certificates/embed.css";
+            link = document.createElement("link");
+            link.href = stylesheet;
+            link.type = "text/css";
+            link.rel = "stylesheet";
+            link.media = "screen,print";
+            document.getElementsByTagName("head")[0].appendChild(link);
+        </script>
 
 ## 🛠️ Technical Skills
 
